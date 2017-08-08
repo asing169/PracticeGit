@@ -1,5 +1,5 @@
 package arrays;
-
+// gitoPrac
 public class NTotal {
 
 	public static void main (String[] args)
@@ -10,7 +10,7 @@ public class NTotal {
 		{
 			
 		
-		for(int i = j + 1; i < array.length; i++)
+		/*for(int i = j + 1; i < array.length; i++)
 		{
 			
 			if(k == array[j] + array[i])
@@ -19,7 +19,7 @@ public class NTotal {
 			}
 			
 		}
-		
+		*/
 	}
 }
 }
